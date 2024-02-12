@@ -10,8 +10,6 @@ accuracy of the maps estimated by this data-driven approach. This refinement
 algorithm performs an iterative upsampling in a ZoomOut fashion, promoting
 the bijectivity of the correspondence.
 
-**structure**
-\\
 In this repository, you can find a simple evaluation test for the model based on the SMAL dataset, a folder with utility functions, and 4 folders in which there is the implementation
 of the models developed using the 4 feature extractors considered. Each folder contains a data loader, four training files, and a model definition file.
 
